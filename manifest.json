@@ -3,8 +3,8 @@
   "loading_order": 120,
   "requires": [],
   "optional": [],
-  "js": "index.js?ver=1.1.0",
-  "css": "index.css?ver=1.1.0",
+  "js": "index.js?ver=1.2.0",
+  "css": "index.css?ver=1.2.0",
   "author": "汤小汤",
-  "version": "1.1.0"
+  "version": "1.2.0"
 }
